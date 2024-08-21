@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonpipe0&label=Profile%20views&color=0e75b6&style=flat" alt="sonpipe0" /> </p>
 
-- 🔭 I’m currently working on [Scholarsync-Server](https://github.com/ManuLosta/scholarsync-server)
+- 🔭 I’m currently working on [Eventify](https://github.com/sonpipe0/eventify)
 
-- 🌱 I’m currently learning **SpringBoot, C++, TypeScript, Node**
+- 🌱 I’m currently learning **NextJs,  NestJs**
 
-- 👯 I’m looking to collaborate on **Open Souce Project to improve my frontend**
-
-- 💬 Ask me about **Java, Python, SQL.**
+- 💬 Ask me about **Java, Python, SQL, Backend**
 
 - 📫 How to reach me **pipefc2003@gmail.com**
 
