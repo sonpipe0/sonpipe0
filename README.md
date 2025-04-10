@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on
 <div style="background-color: #ff0000" >
-  <img src="./logo.png" alt="SomniMed" height="100px" />
+  <img src="./logo.png" alt="Open To Work" height="100px" />
 </div>
 
 - 🌱 I’m currently learning **NextJs,  NestJs**
