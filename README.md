@@ -8,9 +8,9 @@
   <img src="https://www.samai.lat/img/logo_samai_black_bkg.png" alt="Samai" height="56px" />
 </div>
 
-- 🌱 I’m currently learning **NextJs,  NestJs**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **Java, Python, SQL, Backend**
+- 💬 Ask me about **Java, Python, SQL, Backend, NextJs, JetpackCompose, React, Rust**
 
 - 📫 How to reach me **pipefc2003@gmail.com**
 
