@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonpipe0&label=Profile%20views&color=0e75b6&style=flat" alt="sonpipe0" /> </p>
 
-- 🔭 I’m currently working on
-<div style="background-color: #ff0000" >
-  <img src="https://www.samai.lat/img/logo_samai_black_bkg.png" alt="Samai" height="56px" />
-</div>
-
 - 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **Java, Python, SQL, Backend, NextJs, JetpackCompose, React, Rust**
